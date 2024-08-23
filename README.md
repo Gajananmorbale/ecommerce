@@ -9,14 +9,16 @@
 # Installation 
 
 1]   Clone the repository:
-          git clone 
+         
 ```bash
- https://github.com/Gajananmorbale/ecommerce.git
+ git clone https://github.com/Gajananmorbale/ecommerce.git
  ```         
 2]  Install the dependencies:
-        command = npm install
+
+          npm install
         
 3] Start the development server
+
         npm dev run / npm start
 
 ```bash
