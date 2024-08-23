@@ -1,11 +1,13 @@
 # Getting Start Project
 
-https://github.com/Gajananmorbale/ecommerce
+
+# about project
+         This project is a responsive e-commerce web application built using React, Tailwind CSS, JavaScript, and MUI CSS. The application allows users to browse, with a focus on clean code, optimized performance, and reusable components.
 
 # Installation 
 
 1]   Clone the repository:
-          git clone 
+          git clone https://github.com/Gajananmorbale/ecommerce.git
           
 2]  Install the dependencies:
         command = npm install
