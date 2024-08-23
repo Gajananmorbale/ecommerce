@@ -8,9 +8,9 @@
 
 1]   Clone the repository:
           git clone 
-          ```bash
-          https://github.com/Gajananmorbale/ecommerce.git
-          
+```bash
+ https://github.com/Gajananmorbale/ecommerce.git
+ ```         
 2]  Install the dependencies:
         command = npm install
         
