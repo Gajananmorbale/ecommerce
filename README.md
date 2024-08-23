@@ -2,7 +2,9 @@
 
 
 # about project
-         This project is a responsive e-commerce web application built using React, Tailwind CSS, JavaScript, and MUI CSS. The application allows users to browse, with a focus on clean code, optimized performance, and reusable components.
+         This project is a responsive e-commerce web application built using React,
+         Tailwind CSS, JavaScript, and MUI CSS. The application allows users to browse,
+         with a focus on clean code, optimized performance, and reusable components.
 
 # Installation 
 
